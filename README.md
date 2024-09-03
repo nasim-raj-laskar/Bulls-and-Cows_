@@ -1,4 +1,4 @@
-# Bulls and Cows - A Number Guessing Game
+# Bulls and Cows - A Number Guessing Game (on RUST)
 ## Overview
 Bulls and Cows is an engaging and straightforward command-line game built in Rust. The objective is to guess a randomly generated number between 1 and 10. With each guess, the game provides feedback, helping you inch closer to the correct number. The challenge is to guess the number in as few attempts as possible, with hints provided after multiple incorrect tries.
 
