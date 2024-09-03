@@ -10,7 +10,6 @@ Bulls and Cows is an engaging and straightforward command-line game built in Rus
 
 •💬 Interactive Feedback: After each guess, you'll receive feedback on whether your guess was too low, too high, or correct.
 
-•💡 Hint System: If you struggle with your guesses, the game provides helpful tips after five incorrect attempts.
 
 ## Getting Started
 
