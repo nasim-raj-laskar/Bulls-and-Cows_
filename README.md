@@ -40,7 +40,7 @@ cargo run --release
 
 3.Enter your guess and receive feedback instantly.
 
-4.Continue guessing until you find the correct number. If you exceed five incorrect attempts, the game will provide hints.
+4.Continue guessing until you find the correct number. 
 
 5.Celebrate when you successfully guess the number!
 
